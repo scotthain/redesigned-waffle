@@ -1,0 +1,7 @@
+name: redesigned-waffle 
+runtime: nodejs
+description: yay aws with pulumi and stuff
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: aws-typescript
